@@ -1,0 +1,554 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Demo Plugin\n"
+"POT-Creation-Date: 2016-07-12 17:15+0530\n"
+"PO-Revision-Date: 2016-07-12 17:16+0530\n"
+"Last-Translator: Dualcube <admin@dualcube.com>\n"
+"Language-Team: Dualcube <admin@dualcube.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-wcmp-stripe-gateway-settings-payment-stripe_gateway.php:33
+msgid "Enable Stripe Connect"
+msgstr ""
+
+#: admin/class-wcmp-stripe-gateway-settings-payment-stripe_gateway.php:59
+msgid "Stripe Gateway Settings Updated"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-admin.php:15
+msgid "Stripe Gateway"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-admin.php:39
+msgid "Powered by"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-admin.php:39
+msgid "Dualcube"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-connect-vendor.php:42
+#: classes/class-wcmp-stripe-gateway-connect-vendor.php:50
+msgid "Stripe Masspay"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-connect-vendor.php:42
+#: classes/class-wcmp-stripe-gateway-connect-vendor.php:53
+msgid "Stripe Adaptive"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-connect-vendor.php:128
+#: classes/class-wcmp-stripe-gateway-connect-vendor.php:152
+#: classes/class-wcmp-stripe-gateway-connect-vendor.php:170
+#: classes/class-wcmp-stripe-gateway-connect-vendor.php:193
+#: classes/class-wcmp-stripe-gateway-connect-vendor.php:236
+#: classes/class-wcmp-stripe-gateway-connect-vendor.php:255
+#: classes/shortcode/class-wcmp-stripe-gateway-shortcode-stripe-connect.php:78
+#: classes/shortcode/class-wcmp-stripe-gateway-shortcode-stripe-connect.php:94
+#: classes/shortcode/class-wcmp-stripe-gateway-shortcode-stripe-connect.php:126
+#: classes/shortcode/class-wcmp-stripe-gateway-shortcode-stripe-connect.php:141
+msgid "Stripe"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-connect-vendor.php:131
+#: classes/class-wcmp-stripe-gateway-connect-vendor.php:196
+#: classes/shortcode/class-wcmp-stripe-gateway-shortcode-stripe-connect.php:81
+#: classes/shortcode/class-wcmp-stripe-gateway-shortcode-stripe-connect.php:144
+msgid "You are connected with Stripe"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-connect-vendor.php:155
+#: classes/class-wcmp-stripe-gateway-connect-vendor.php:173
+#: classes/shortcode/class-wcmp-stripe-gateway-shortcode-stripe-connect.php:97
+msgid "Please Retry!!!"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-connect-vendor.php:238
+msgid "You are not connected with stripe."
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-connect-vendor.php:257
+msgid "Please connected with stripe again."
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-connect-vendor.php:275
+#: classes/shortcode/class-wcmp-stripe-gateway-shortcode-stripe-connect.php:157
+msgid "You are not a Vendor. Please Login as a Vendor."
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions-addon.php:96
+#: classes/class-wcmp-stripe-gateway-functions-addon.php:101
+#, php-format
+msgid "Via %s card ending in %s"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions-addon.php:120
+#: classes/class-wcmp-stripe-gateway-functions.php:454
+#, php-format
+msgid "%s - Order %s"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions-addon.php:152
+#: classes/class-wcmp-stripe-gateway-functions.php:486
+#: classes/class-wcmp-stripe-gateway-payment.php:43
+#, php-format
+msgid "Stripe charge complete (Charge ID: %s)"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions-addon.php:161
+#: classes/class-wcmp-stripe-gateway-functions.php:495
+#, php-format
+msgid ""
+"Stripe charge authorized (Charge ID: %s). Process order to take payment, or "
+"cancel to remove the pre-authorization."
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions-addon.php:165
+#, php-format
+msgid "Stripe Transaction Failed (%s)"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions-addon.php:199
+#: classes/class-wcmp-stripe-gateway-functions-addon.php:302
+msgid ""
+"Sorry, the minimum allowed order total is 0.50 to use this payment method."
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions-addon.php:210
+msgid ""
+"Please make sure your card details have been entered correctly and that your "
+"browser supports JavaScript."
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions-addon.php:213
+#: classes/class-wcmp-stripe-gateway-functions-addon.php:375
+msgid ""
+"Developers: Please make sure that you are including jQuery and there are no "
+"JavaScript errors on the page."
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions-addon.php:299
+#, php-format
+msgid "Subscription for \"%s\""
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions-addon.php:299
+#, php-format
+msgid "(Order %s)"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions-addon.php:316
+msgid "Customer not found"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions-addon.php:338
+#, php-format
+msgid "Stripe subscription payment completed (Charge ID: %s)"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions-addon.php:372
+msgid ""
+"Please make sure your card details have been entered correctly and your "
+"browser supports JavaScript."
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions-addon.php:444
+msgid "Error:"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:11
+msgid "Stripe (WCMp Compatible)"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:12
+msgid ""
+"Stripe (WCMp Compatible) accepts credit card details from customer on the "
+"checkout page and then sends the details to Stripe for verification once "
+"they varify payment process will proceed."
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:54
+msgid "Continue to payment"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:58
+msgid ""
+"TEST MODE IS ENABLED. Now, you can use the card number 4242424242424242 with "
+"any CVC and a valid expiration date."
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:75
+msgid "Configure the stripe settings"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:77
+#: classes/class-wcmp-stripe-gateway-functions.php:156
+msgid "Please configure the requested settings."
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:80
+msgid "Enable/Disable"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:81
+msgid "Enable Stripe"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:87
+msgid "Test mode"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:88
+msgid "Enable Test Mode"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:90
+msgid "This will enable the test mode of Stripe using test API keys."
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:95
+msgid "Enter your display details settings"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:97
+#: classes/class-wcmp-stripe-gateway-functions.php:115
+msgid "Enter All requested information given below."
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:101
+msgid "Stripe Gateway Title"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:103
+msgid "Title of Stripe Gateway will shown on checkout page."
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:104
+msgid "Credit card (Stripe)"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:107
+msgid "Description"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:109
+msgid "Description of Stripe Gateway on checkout page."
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:110
+msgid "Pay with your credit card via Stripe."
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:113
+msgid "Enter your API Details"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:118
+msgid "Live Client ID"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:120
+#: classes/class-wcmp-stripe-gateway-functions.php:138
+msgid "Get your Client ID from your Stripe account."
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:124
+msgid "Live Secret Key"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:126
+#: classes/class-wcmp-stripe-gateway-functions.php:132
+#: classes/class-wcmp-stripe-gateway-functions.php:144
+#: classes/class-wcmp-stripe-gateway-functions.php:150
+msgid "Get your API keys from your Stripe account."
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:130
+msgid "Live Publishable Key"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:136
+msgid "Test Client ID"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:142
+msgid "Test Secret Key"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:148
+msgid "Test Publishable Key"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:154
+msgid "Configure the other settings"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:159
+msgid "Capture"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:160
+msgid "Capture charge immediately"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:162
+msgid ""
+"The charge will be captured immediately when checked. When unchecked, the "
+"charge issues an authorization and will need to be captured later. "
+"Uncaptured charges expire in 7 days."
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:166
+msgid "Stripe Checkout"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:167
+msgid "Enable Stripe Checkout"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:169
+msgid ""
+"If enabled, this option shows a \"pay\" button and modal credit card form on "
+"the checkout, instead of credit card fields directly on the page."
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:173
+msgid "Stripe Checkout Image"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:174
+msgid ""
+"Optionally enter the URL to a 128x128px image of your brand or product. e.g. "
+"<code>https://yoursite.com/wp-content/uploads/2013/09/yourimage.jpg</code>"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:179
+#: templates/saved-cards.php:3
+msgid "Saved cards"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:180
+msgid "Enable saved cards"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:182
+msgid ""
+"If enabled, users will be able to pay with a saved card during checkout. "
+"Card details are saved on Stripe servers, not on your store."
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:186
+msgid "Reset card section"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:187
+msgid "Enable reset card section"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:189
+msgid ""
+"If enabled, users will be able to reset his card information in one click. "
+"and it is also useful when customer id deleted from stripe but not from your "
+"website."
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:215
+msgid "Please accept the terms and conditions first"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:216
+msgid "Please fill in required checkout fields first"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:252
+#, php-format
+msgid "Stripe error: Please enter your secret key <a href=\"%s\">here</a>"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:255
+#, php-format
+msgid "Stripe error: Please enter your publishable key <a href=\"%s\">here</a>"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:261
+#, php-format
+msgid "Stripe error: Please enter your client id <a href=\"%s\">here</a>"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:267
+msgid "Stripe error: Your secret and publishable keys match. Please check."
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:273
+#, php-format
+msgid ""
+"Stripe is enabled, but the <a href=\"%s\">force SSL option</a> is disabled; "
+"your checkout may not be secure! Please enable SSL and ensure your server "
+"has a valid SSL certificate - Stripe will only work in test mode."
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:341
+msgid "Manage cards"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:346
+#, php-format
+msgid "%s card ending in %s (Expires %s/%s)"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:352
+msgid "Use a new credit card"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:361
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:362
+msgid "Confirm and Pay"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:413
+msgid ""
+"Sorry, minimum allowed order total is 0.50 to use stripe payment method."
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:422
+msgid ""
+"Please make sure card details you have given is correct and your browser "
+"must have support javascript."
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:424
+msgid ""
+"Desr Developers please make sure that you are including jQuery files and "
+"there is no js error in this page."
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:563
+#, php-format
+msgid "Refunded %s - Refund ID: %s"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:595
+msgid "Unable to add customer"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:618
+msgid "Unable to add card"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:644
+msgid "There was a problem connecting to the payment gateway."
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-functions.php:648
+msgid "Empty response."
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-masspay.php:114
+#: classes/class-wcmp-stripe-gateway-transfer.php:64
+#, php-format
+msgid ""
+"Commission transfered to vendor-%s via stripe, amount: %s (Transfer ID: %s)"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-payment.php:41
+msgid "Unable to capture charge!"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-payment.php:59
+#, php-format
+msgid "Vendor commission transfered (Transfer ID: %s)"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-payment.php:117
+msgid "Unable to refund charge!"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-payment.php:119
+#, php-format
+msgid "Stripe charge refunded (Charge ID: %s)"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-saved-cards.php:40
+msgid "Unable to delete the card, please try again"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-saved-cards.php:48
+msgid "Unable to delete saved card."
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-saved-cards.php:50
+msgid "Saved card has been deleted."
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-transfer.php:68
+#, php-format
+msgid "Commission transfer failed to vendor-%s via stripe"
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-transfer.php:72
+#, php-format
+msgid ""
+"Commission transfer failed to vendor-%s via stripe. Vendor-%s is not "
+"connected with stripe."
+msgstr ""
+
+#: classes/class-wcmp-stripe-gateway-transfer.php:76
+#, php-format
+msgid "Commission is already paid to vendor-%s"
+msgstr ""
+
+#: includes/wcmp-stripe-gateway-core-functions.php:32
+#, php-format
+msgid ""
+"%sWCMp Vendor Stock Alert is inactive.%s The %sWooCommerce plugin%s must be "
+"active for the WCMp Vendor Stock Alert to work. Please %sinstall & activate "
+"WooCommerce%s"
+msgstr ""
+
+#: templates/reset-stripe.php:4
+msgid "Reset All Card from this website"
+msgstr ""
+
+#: templates/reset-stripe.php:9
+msgid "Reset your saved card data"
+msgstr ""
+
+#: templates/reset-stripe.php:11
+msgid "Reset Card"
+msgstr ""
+
+#: templates/saved-cards.php:8
+msgid "Card"
+msgstr ""
+
+#: templates/saved-cards.php:9
+msgid "Expires"
+msgstr ""
+
+#: templates/saved-cards.php:16
+#, php-format
+msgid "%s card ending in %s"
+msgstr ""
+
+#: templates/saved-cards.php:17
+#, php-format
+msgid "Expires %s/%s"
+msgstr ""
+
+#: templates/saved-cards.php:22
+msgid "Delete card"
+msgstr ""
+
+#~ msgid "ID Number"
+#~ msgstr "Identification"
