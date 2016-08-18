@@ -90,7 +90,7 @@ class WCMp_Stripe_Gateway_Masspay {
                 $payout_note = $commission_data['payout_note'];
                     $check_vendor_connected = get_user_meta( $vendor_id, 'vendor_connected', true );
                     if( $check_vendor_connected = 1 ) {
-                        $total_stripe_ammount = $total*100;
+                        $total_stripe_ammount = intval($total*100);
                             $vendor_stripe_user_id = get_user_meta( $vendor_id, 'stripe_user_id', true );
                             $transfer_details = array(
                                     'total_commission' => $total_stripe_ammount,

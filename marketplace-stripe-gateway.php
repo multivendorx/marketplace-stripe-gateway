@@ -4,7 +4,7 @@ Plugin Name: Marketplace Stripe Gateway
 Plugin URI: http://dualcube.com
 Description: Stripe Payment Gateway ( WooCommerce MarketPlace Compatible )
 Author: Dualcube
-Version: 1.0.0
+Version: 1.0.1
 Author URI: http://dualcube.com
 */
 
